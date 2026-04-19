@@ -9,7 +9,7 @@ It demonstrates both **Salesforce Development (Apex, Trigger)** and **QA practic
 
 The system allows users to create tasks, assign priorities, set due dates, and track progress while ensuring data quality and automation.
 
----
+![image alt](https://github.com/monikasarkar1809/Salesforce-Support-Ticket-Management-App-Admin-Project-/blob/8ef469168fcdd2813a500ffec61016c6cc27175a/Support%20Pic.png)
 
 🎯 Objectives
 - Create and manage tasks efficiently  
