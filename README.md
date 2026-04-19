@@ -1,7 +1,7 @@
 # Salesforce-Task-Tracker-App
 Built a Task Tracker app using Salesforce. Implemented custom object, validation rule, Apex class, trigger, and test class.
 
-🚀 Salesforce Task Tracker App (Admin + Development + QA)
+🚀 Salesforce Task Tracker App ( Development + QA)
 
 📌 Project Overview
 This project is a Salesforce application built to manage and track tasks efficiently.  
