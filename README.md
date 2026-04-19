@@ -24,14 +24,16 @@ The system allows users to create tasks, assign priorities, set due dates, and t
 
 🔹 Custom Object: Task Tracker
 **Fields:**
-- Task Name (Text)  
-- Status (Picklist: New, In Progress, Completed)  
-- Priority (Picklist: Low, Medium, High)  
-- Due Date (Date)  
+- Task Name 
+- Status 
+- Priority  
+- Due Date   
 
  🔹 Validation Rule
+ 🔹 Apex Class
+ 🔹 Trigger
+ 🔹 Test Class
 
- 
 🧪 QA Testing (Test Cases)
 Manual test cases were created to validate:
 
